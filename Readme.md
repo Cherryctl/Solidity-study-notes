@@ -10,6 +10,7 @@
 - [第二课（3）：Mapping 的引入与数组查询优化](https://github.com/Cherryctl/Solidity-study-notes/issues/4)
 - [第三课：工厂模式 Factory Pattern（上）](https://github.com/Cherryctl/Solidity-study-notes/issues/5)
 - [第三课：工厂模式 Factory Pattern（下）](https://github.com/Cherryctl/Solidity-study-notes/issues/6)
+- [第四课：FundMe 合约与收款函数基础](https://github.com/Cherryctl/Solidity-study-notes/issues/7)
 
 ## 💡 更新计划
 
