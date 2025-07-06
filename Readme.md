@@ -4,17 +4,14 @@
 
 ## 🗂️ 目录
 
-1. [第一课：HelloWorld 与基础语法](https://github.com/Cherryctl/Solidity-study-notes/issues/1)
-2. [第二课：事件与权限控制](https://github.com/Cherryctl/Solidity-study-notes/issues/2)
-3. [第三课：变量与函数深入理解](https://github.com/Cherryctl/Solidity-study-notes/issues/3)
-4. [第四课：映射与结构体](https://github.com/Cherryctl/Solidity-study-notes/issues/4)
-5. [第五课：继承与接口](https://github.com/Cherryctl/Solidity-study-notes/issues/5)
-6. [第六课：修饰符与权限管理](https://github.com/Cherryctl/Solidity-study-notes/issues/6)
-7. [第七课：合约部署与测试工具](https://github.com/Cherryctl/Solidity-study-notes/issues/7)
-8. [第八课：安全性与最佳实践](https://github.com/Cherryctl/Solidity-study-notes/issues/8)
-9. [第九课：Gas 优化技巧](https://github.com/Cherryctl/Solidity-study-notes/issues/9)
-10. [第十课：Solidity 项目实战总结](https://github.com/Cherryctl/Solidity-study-notes/issues/10)
+- [第一课：从 HelloWorld 学会智能合约基础语法](https://github.com/Cherryctl/Solidity-study-notes/issues/2)
+- [第二课（1）：结构体、数组与 msg.sender 的应用](https://github.com/Cherryctl/Solidity-study-notes/issues/3)
+- [第二课（2）：结构体、动态数组与 msg.sender](https://github.com/Cherryctl/Solidity-study-notes/issues/4)
+- [第二课（3）：Mapping 的引入与数组查询优化](https://github.com/Cherryctl/Solidity-study-notes/issues/5)
+- [第三课：工厂模式 Factory Pattern（上）](https://github.com/Cherryctl/Solidity-study-notes/issues/6)
+- [第三课：工厂模式 Factory Pattern（下）](https://github.com/Cherryctl/Solidity-study-notes/issues/7)
 
-## 💡 后续更新
+## 💡 更新计划
 
 该目录会持续更新，欢迎 star 与 issue 评论交流。
+
