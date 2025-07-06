@@ -4,12 +4,12 @@
 
 ## 🗂️ 目录
 
-- [第一课：从 HelloWorld 学会智能合约基础语法](https://github.com/Cherryctl/Solidity-study-notes/issues/2)
-- [第二课（1）：结构体、数组与 msg.sender 的应用](https://github.com/Cherryctl/Solidity-study-notes/issues/3)
-- [第二课（2）：结构体、动态数组与 msg.sender](https://github.com/Cherryctl/Solidity-study-notes/issues/4)
-- [第二课（3）：Mapping 的引入与数组查询优化](https://github.com/Cherryctl/Solidity-study-notes/issues/5)
-- [第三课：工厂模式 Factory Pattern（上）](https://github.com/Cherryctl/Solidity-study-notes/issues/6)
-- [第三课：工厂模式 Factory Pattern（下）](https://github.com/Cherryctl/Solidity-study-notes/issues/7)
+- [第一课：从 HelloWorld 学会智能合约基础语法](https://github.com/Cherryctl/Solidity-study-notes/issues/1)
+- [第二课（1）：结构体、数组与 msg.sender 的应用](https://github.com/Cherryctl/Solidity-study-notes/issues/2)
+- [第二课（2）：结构体、动态数组与 msg.sender](https://github.com/Cherryctl/Solidity-study-notes/issues/3)
+- [第二课（3）：Mapping 的引入与数组查询优化](https://github.com/Cherryctl/Solidity-study-notes/issues/4)
+- [第三课：工厂模式 Factory Pattern（上）](https://github.com/Cherryctl/Solidity-study-notes/issues/5)
+- [第三课：工厂模式 Factory Pattern（下）](https://github.com/Cherryctl/Solidity-study-notes/issues/6)
 
 ## 💡 更新计划
 
