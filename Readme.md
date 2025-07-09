@@ -45,6 +45,9 @@ Solidity 是一种 面向以太坊虚拟机（EVM）的高级合约编程语言�
 - [第三课：工厂模式 Factory Pattern（上）](https://github.com/Cherryctl/Solidity-study-notes/issues/5)
 - [第三课：工厂模式 Factory Pattern（下）](https://github.com/Cherryctl/Solidity-study-notes/issues/6)
 - [第四课：FundMe 合约与收款函数基础](https://github.com/Cherryctl/Solidity-study-notes/issues/7)
+- Solidity 学习笔记 | 第六课：提现函数、权限控制
+- [第五课(2)：Chainlink 预言机与按美元定价的 FundMe 合约](https://github.com/Cherryctl/Solidity-study-notes/issues/9)
+- [第六课：提现函数、权限控制](https://github.com/Cherryctl/Solidity-study-notes/issues/10)
 
 ## 💡 更新计划
 
