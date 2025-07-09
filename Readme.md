@@ -25,9 +25,15 @@ Solidity 是一种 面向以太坊虚拟机（EVM）的高级合约编程语言�
 - 任何需要链上自动执行的业务逻辑
 
 # 📚 推荐阅读
+- [以太坊官网 – 区块链介绍](https://ethereum.org/zh/developers/docs/intro-to-ethereum/)– 以太坊官方的中文入门，介绍什么是区块链、工作原理以及以太坊在其中的角色
+
+- [Blockchain Demo](https://andersbrownworth.com/blockchain/)交互式可视化演示-通过可视化操作理解哈希、区块、链式结构与工作量证明。
+  
 - [Solidity 官方文档 ](https://docs.soliditylang.org/)– Solidity 最权威的入门与参考
 
 - [以太坊官网 – 什么是智能合约](https://ethereum.org/zh/developers/docs/smart-contracts/)– 介绍智能合约工作原理
+  
+- [以太坊白皮书](https://ethereum.org/en/whitepaper/)– 深入理解以太坊如何将区块链与智能合约结合
 
 
 ## 🗂️ 笔记目录
