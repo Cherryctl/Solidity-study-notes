@@ -48,6 +48,12 @@ Solidity 是一种 面向以太坊虚拟机（EVM）的高级合约编程语言�
 - [第五课(1)：Chainlink 预言机与按美元定价的 FundMe 合约](https://github.com/Cherryctl/Solidity-study-notes/issues/8)
 - [第五课(2)：Chainlink 预言机与按美元定价的 FundMe 合约](https://github.com/Cherryctl/Solidity-study-notes/issues/9)
 - [第六课：提现函数、权限控制](https://github.com/Cherryctl/Solidity-study-notes/issues/10)
+- [第七课（上）：多用户资金管理与退款逻辑](https://github.com/Cherryctl/Solidity-study-notes/issues/11)
+- [第七课（下）：ETH 转账方法详解 —— transfer、send 与 call](https://github.com/Cherryctl/Solidity-study-notes/issues/12)
+- [第八课：锁仓机制与时间控制 Modifier](https://github.com/Cherryctl/Solidity-study-notes/issues/13)
+- [第九课：ERC20 通证原理、Coin 与 Token 区别、简易 Token 合约](https://github.com/Cherryctl/Solidity-study-notes/issues/14)
+- [第十课（拓展）：继承、virtual 与 override 深入理解](https://github.com/Cherryctl/Solidity-study-notes/issues/15)
+- [第十一课：基于 ERC20 的募资铸币系统设计](https://github.com/Cherryctl/Solidity-study-notes/issues/16)
 
 ## 💡 更新计划
 
